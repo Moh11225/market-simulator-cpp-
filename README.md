@@ -46,3 +46,4 @@ Compile the program with a C++ compiler:
 
 ```bash
 g++ market.cpp -o market
+./market
